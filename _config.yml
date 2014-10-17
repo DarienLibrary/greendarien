@@ -1,0 +1,5 @@
+# Site settings
+name: Green Darien
+markdown: redcarpet
+pygments: true
+baseurl: /greendarien
